@@ -1,0 +1,75 @@
+.base{
+	width: 420px;
+	height: 550px;
+	background: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid #808080;
+}
+.form-control{
+	text-align: right;
+	height: 50px;
+	font-size: 30px;
+}
+.base h3{
+	background: #696969;
+	padding-bottom: 10px;
+	padding-top:10px;
+	color: white;
+}
+.botao_numeros{
+	width: 65px;
+	height: 65px;
+	margin: 1px;
+	background: #f3f3f3;
+	font-size: 25px;
+}
+.botao_operacoes{
+	width: 65px;
+	height: 65px;
+	font-size:30px;
+	margin: 1px;
+	background: #d5d5d5;
+	
+}
+
+.div_numeros{
+	margin-top: 20px;
+	margin-left:20px;
+	float:left;
+}
+.div_operacoes{
+	float: right;
+	margin-top: 20px;
+}
+.igual{
+	margin-top:1px;
+	width: 137px;
+}
+#botao_igual{
+	width: 65px;
+	height: 65px;
+	font-size:30px;
+	margin: 1px;
+}
+#reset{
+	font-size: 30px;
+}
+#resultado{
+	width: 400px;
+	height: 40px;
+	float: right;
+	font-size: 30px;
+	text-align: right;
+	margin-right: 10px;
+	max-width: 15ch;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+#nome_app{font-size: 40px;text-align: center;}
+#rodape{
+	width: 100%;
+	margin-top: 33px;
+	text-align: center;
+	float: left;
+}
